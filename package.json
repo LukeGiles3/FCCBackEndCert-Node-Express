@@ -3,6 +3,7 @@
 	"author": "Luke Giles",
 	"description": "my money don't jiggle jiggle, it folds",
 	"keywords": ["freecodecamp", "he", "needs", "some", "milk"],
+	"license": "BSD",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
