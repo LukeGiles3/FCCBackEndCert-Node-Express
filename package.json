@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Luke Giles",
+	"description": "my money don't jiggle jiggle, it folds",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
